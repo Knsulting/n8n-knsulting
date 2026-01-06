@@ -8,4 +8,4 @@ ENV NODE_OPTIONS="--max-old-space-size=4096"
 EXPOSE 5678
 
 # Start n8n
-CMD ["n8n"]
+// CMD ["n8n"]

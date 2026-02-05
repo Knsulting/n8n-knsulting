@@ -1,5 +1,5 @@
 # Use the official n8n image
-FROM n8nio/n8n:latest
+FROM n8nio/n8n:2.6.3
 
 # Increase memory limit to avoid build crashes
 ENV NODE_OPTIONS="--max-old-space-size=4096"
